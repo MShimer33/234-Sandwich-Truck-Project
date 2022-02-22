@@ -20,7 +20,6 @@ public class Truck {
     }
 
 
-    // splits original order string on the commas into three seperate strings: orderDate, address, and foodOrder
     /**
      * spilts the order into individual strings for the address and food order, given in the whole order string,
      * so that the address and food order can be used seperatley
